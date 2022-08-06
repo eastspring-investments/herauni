@@ -1,7 +1,5 @@
 # Hera Uni
 
-## About
-
 Open-source learning materials in Data & AI from Eastspring Investments Group.
 
 ## Getting Started: First Time
@@ -24,7 +22,7 @@ git clone https://github.com/eastspring-investments/herauni
 conda env create -f environment.yml
 ```
 
-### Getting Started: Subsequent Time
+## Getting Started: Subsequent Time
 
 ### Activate Environment and Run Jupyter
 
