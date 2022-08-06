@@ -1,6 +1,6 @@
 # Hera Uni
 
-Open-source learning materials in Data & AI from Eastspring Investments Group.
+Open-source learning materials catered for Data Engineers, Data Scientists, AI Engineers, AI Scientists, and Quants from Eastspring Investments Group.
 
 ## Getting Started: First Time
 
