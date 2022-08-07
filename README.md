@@ -2,6 +2,9 @@
 
 Open-source learning materials catered for Data Engineers, Data Scientists, AI Engineers, AI Scientists, and Quants from Eastspring Investments Group.
 
+## Topics
+- [Eigenvector Centrality, Page Rank with Eigendecomposition, Page Rank with Power Iteration, & Google Page Rank](https://github.com/eastspring-investments/herauni/blob/main/notebooks/page_rank.ipynb)
+
 ## Getting Started: First Time
 
 ### Step 1: Install Miniconda
