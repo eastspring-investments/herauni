@@ -2,13 +2,15 @@
 
 Open-source learning materials catered for Data Engineers, Data Scientists, AI Engineers, AI Scientists, and Quants from Eastspring Investments Group.
 
+To quickly get started, all you need is a Google account and you can just press on the `Open in Colab` button that allows you to run the notebook without setting up the environment locally or ensuring that you are on the latest branch.
+
 ## Topics
-- [Eigenvector Centrality, Page Rank with Eigendecomposition, Page Rank with Power Iteration, & Google Page Rank](https://github.com/eastspring-investments/herauni/blob/main/notebooks/page_rank.ipynb) 
+- [Eigenvector Centrality, Page Rank with Eigendecomposition, Page Rank with Power Iteration, and Google Page Rank](https://github.com/eastspring-investments/herauni/blob/main/notebooks/page_rank.ipynb) 
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eastspring-investments/herauni/blob/main/notebooks/page_rank.ipynb)
 - [Linear Programming (Optimisation)](https://github.com/eastspring-investments/herauni/blob/main/notebooks/linear_programming.ipynb)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eastspring-investments/herauni/blob/main/notebooks/linear_programming.ipynb)
 
-## Getting Started: First Time
+## (Optional) Getting Started: First Time
 
 ### Step 1: Install Miniconda
 
@@ -28,7 +30,7 @@ git clone https://github.com/eastspring-investments/herauni
 conda env create -f environment.yml
 ```
 
-## Getting Started: Subsequent Time
+## (Optional) Getting Started: Subsequent Time
 
 ### Activate Environment and Run Jupyter
 
