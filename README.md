@@ -7,8 +7,11 @@ To quickly get started, all you need is a Google account and you can just press 
 ## Topics
 - [Eigenvector Centrality, Page Rank with Eigendecomposition, Page Rank with Power Iteration, and Google Page Rank](https://github.com/eastspring-investments/herauni/blob/main/notebooks/page_rank.ipynb) 
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eastspring-investments/herauni/blob/main/notebooks/page_rank.ipynb)
-- [Linear Programming (Optimisation)](https://github.com/eastspring-investments/herauni/blob/main/notebooks/linear_programming.ipynb)
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eastspring-investments/herauni/blob/main/notebooks/linear_programming.ipynb)
+- [Linear Program](https://github.com/eastspring-investments/herauni/blob/main/notebooks/linear_program.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eastspring-investments/herauni/blob/main/notebooks/linear_program.ipynb)
+- [Linear and Binary Search](https://github.com/eastspring-investments/herauni/blob/main/notebooks/linear_binary_search.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eastspring-investments/herauni/blob/main/notebooks/linear_binary_search.ipynb)
+
 
 ## (Optional) Getting Started: First Time
 
